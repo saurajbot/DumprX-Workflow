@@ -20,7 +20,7 @@ jobs:
 
        - name: Clone Dumpyara
          run: |
-              git clone --depth=1 --single-branch https://github.com/saurajbot/phoenix_firmware_dumper.git
+              git clone --depth=1 --single-branch https://github.com/saurajbot/DumprX.git phoenix_firmware_dumper
               git clone --depth=1 --single-branch https://github.com/noobyysauraj/android_tools
               T_CID=$(cat temp/ch_id.txt)
               T_MID=$(cat temp/msg_id.txt)
