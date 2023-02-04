@@ -75,4 +75,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: .dumprx https://free.nchc.org.tw/osdn//storage/g/x/xi/xiaomifirmwareupdater/Stable/V14/lisa/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
+  ROM_URL: https://free.nchc.org.tw/osdn//storage/g/x/xi/xiaomifirmwareupdater/Stable/V14/lisa/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
