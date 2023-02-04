@@ -62,7 +62,11 @@ jobs:
               export GIT_TOKEN=${{ secrets.GIT_GITHUB_TOKEN }}
               export TG_API=${{ secrets.TG_BOT_TOKEN }}
               export PUSH_TO_GITLAB=true
-
+              export TG_TOKEN="$TG_API"
+              export GIT_TKN=${{ secrets.GIT_GITHUB_TOKEN }}
+              export CHAT_ID="$TG_CHAT_ID"
+              export C_ID="$T_CID"
+              export M_ID="$T_MID"
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
@@ -75,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://drive.google.com/file/d/1JjkmsBowJ1-UcfuHDpdsZ9uxEXz6MHi5/view?usp=share_link
+  ROM_URL: https://lineage.samarv121.wtf/RM6785-20230107_115933/lineage-20.0-20230105_104628-UNOFFICIAL-RM6785.zip
