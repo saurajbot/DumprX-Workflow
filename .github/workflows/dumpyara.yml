@@ -75,4 +75,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/zeelog/OTA/releases/download/21.0/lineage-17.1-20201101-UNOFFICIAL-4.9-mido.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.15.0.SKFMIXM/miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip
