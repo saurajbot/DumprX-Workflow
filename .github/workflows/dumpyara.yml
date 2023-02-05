@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://fairphone-android-builds.ams3.digitaloceanspaces.com/FP3/FP3-8901.4.A.0019.2-gms-53c17a08-user-fastbootimage.zip
+  ROM_URL: https://drive.google.com/file/d/1JjkmsBowJ1-UcfuHDpdsZ9uxEXz6MHi5/view?usp=share_link
