@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://drive.google.com/uc?id=1QJR7ZxgEYYJNHna0NQucB5tHu1SU-z0K&export=download
+  ROM_URL: https://dl.google.com/dl/android/aosp/sunfish-tq1a.230205.002-factory-2d0ec997.zip
