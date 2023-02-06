@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/neilchetty/releases/releases/download/29012023/lineage-20.0-20230129-UNOFFICIAL-RMP6768-recovery-signed.zip
+  ROM_URL: https://github.com/LordShenron/ota/releases/download/primebook-2.1.7/Primebook-2.1.7-RK3566-06022023-1212.zip
