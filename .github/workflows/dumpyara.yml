@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-c4ff62e9828b2f72d9d7ac8c9a8fe7d3/component-ota/23/01/10/5c16bec94edc428886a8d9a49dcf18bb.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/sunfish-tq1a.230205.002-factory-2d0ec997.zip
