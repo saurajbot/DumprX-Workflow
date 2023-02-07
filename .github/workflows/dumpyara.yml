@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://objects.githubusercontent.com/github-production-release-asset-2e65be/442411585/8a0f1e25-e31a-4fd8-85bd-905863fbe4e5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230207T022708Z&X-Amz-Expires=300&X-Amz-Signature=0ee7aeb60ec97eef3b8433a7cad0bb7a98d6f0603c7df52e9a27fd6f0658eca9&X-Amz-SignedHeaders=host&actor_id=47187468&key_id=0&repo_id=442411585&response-content-disposition=attachment%3B%20filename%3DPixelOS_RMX2020-13.0-20230206-1914.zip&response-content-type=application%2Foctet-stream
+  ROM_URL: https://dl.google.com/dl/android/aosp/cheetah-tq1a.230205.002-factory-4439927e.zip
