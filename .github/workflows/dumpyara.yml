@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/sunfish-tq1a.230205.002-factory-2d0ec997.zip
+  ROM_URL: https://dl.google.com/developers/android/udc/images/factory/cheetah_beta-upp1.230113.009-factory-1a3edc0d.zip
