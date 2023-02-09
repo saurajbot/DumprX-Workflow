@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://file.technicalatg.com/QO56O
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/AOSP-UpsideDownCake-RMX2020-ota-20230209-userdebug.zip
