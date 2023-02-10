@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-componentotacostmanual-eu.allawnofs.com/remove-a07e48a13527b9c0a06c1a2ec0ee297b/component-ota/23/01/19/1fe9cea019a440e891f1bd3268e5e2e6.zip
+  ROM_URL: https://dl.leafos.org/beta/RMX2001/20230106_1825/leaf-2.0-beta-169-GMS-RMX2001.zip
