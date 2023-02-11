@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://sourceforge.net/projects/spiceos/files/13/mojito/SpiceOS-6.4-STABLE-20230209-025838-mojito-OFFICIAL.zip/download
+  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.TKJCNXM/miui_ARES_V14.0.2.0.TKJCNXM_36a3687cce_13.0.zip
