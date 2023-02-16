@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://mirrorvortex.vijaymalav6969.workers.dev/0:/Tg/PixelOS_G-13.0-20230214-2055.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.4.0.SGBMIXM/evergreen_global_images_V13.0.4.0.SGBMIXM_20221206.0000.00_12.0_global_7b6970ab17.tgz
