@@ -79,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/RM6833/releases/releases/download/LineageOS-20.0-RMX3242_0223_RUI4/lineage-20.0-20230212-UNOFFICIAL-RMX3242.zip
+  ROM_URL: https://mirrorvortex.vijaymalav6969.workers.dev/0:/Tg/PixelOS_G-13.0-20230214-2055.zip
