@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.2.21.0.OCLRUXM/miui_TIARERUGlobal_V10.2.21.0.OCLRUXM_76c42d2769_8.1.zip
+  ROM_URL: http://bigota.d.miui.com/V11.0.3.0.NDFMIXM/miui_HMNote5ALITEGlobal_V11.0.3.0.NDFMIXM_542160087b_7.1.zip
