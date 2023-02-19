@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://ota-manual-in.allawnofs.com/ota/22/12/01/62427d97-5525-4fa3-899a-522ca44a00a1.ozip
+  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%205i/19631/RMX1911EX_11_C.79_220121_d8a54518.zip
