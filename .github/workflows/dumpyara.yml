@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%205i/19631/RMX1911EX_11_C.79_220121_d8a54518.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.10.0.RGFIDXM/miui_FROSTIDGlobal_V13.0.10.0.RGFIDXM_9d4fdb7d9c_11.0.zip
