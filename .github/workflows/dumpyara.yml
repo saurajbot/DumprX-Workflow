@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/omixmobile/firmware/releases/download/V11.3.0_X300_4GB/super.zip
+  ROM_URL: https://ota-manual-in.allawnofs.com/ota/22/12/01/62427d97-5525-4fa3-899a-522ca44a00a1.ozip
