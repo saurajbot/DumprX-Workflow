@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.4.0.TKXCNXM/miui_NABU_V14.0.4.0.TKXCNXM_4a5416de6f_13.0.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.2.0.SJPINXM/miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
