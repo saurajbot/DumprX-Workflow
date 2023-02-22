@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/omixmobile/firmware/releases/download/V11.4.2_X400/R.X400.20221116.V11.4.2.pac.xz
+  ROM_URL: https://github.com/omixmobile/firmware/releases/download/V12.1.0_July_X600-NFC/super.img.xz
