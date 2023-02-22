@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/omixmobile/firmware/releases/download/V12.1.0_X700/super.img.xz
+  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.SKGMIXM/miui_MOJITOGlobal_V14.0.1.0.SKGMIXM_d9a5077bf4_12.0.zip
