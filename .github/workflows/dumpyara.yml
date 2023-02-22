@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/omixmobile/firmware/releases/download/V12.1.0_July_X600-NFC/super.img.xz
+  ROM_URL: https://github.com/omixmobile/firmware/releases/download/V12.1.0_X700/super.img.xz
