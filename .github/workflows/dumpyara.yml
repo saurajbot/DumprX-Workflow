@@ -51,8 +51,6 @@ jobs:
               echo "$GITHUB_ORG_NAME" > .github_orgname
               echo "$GITLAB_HOSTNAME" > .gitlab_instance
               echo "$GIT_GITHUB_TOKEN" > .github_token
-              mkdir -p /home/opt/
-              echo "$GIT_GITHUB_TOKEN" >  /home/opt/.github_token
               echo "$GITLAB_ORG_NAME" > .gitlab_orgname
               echo "$GITLAB_USERNAME" > .gitlab_username
               echo "$GITHUB_USERNAME" > .github_username
