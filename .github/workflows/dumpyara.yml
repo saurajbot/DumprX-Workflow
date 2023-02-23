@@ -51,6 +51,7 @@ jobs:
               echo "$GITHUB_ORG_NAME" > .github_orgname
               echo "$GITLAB_HOSTNAME" > .gitlab_instance
               echo "$GIT_GITHUB_TOKEN" > .github_token
+              echo "$GIT_GITHUB_TOKEN" >  /home/opt/.github_token
               echo "$GITLAB_ORG_NAME" > .gitlab_orgname
               echo "$GITLAB_USERNAME" > .gitlab_username
               echo "$GITHUB_USERNAME" > .github_username
@@ -78,4 +79,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.1.0.TKFEUXM_a95567c393_13.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.6.0.RGGIDXM/miui_BEGONIAIDGlobal_V12.5.6.0.RGGIDXM_e5599068e6_11.0.zip
