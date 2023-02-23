@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://devuploads.com/t4c3i335gdei
+  ROM_URL: https://github.com/LordShenron/ota/releases/download/primebook4g-2.1.7/PrimeOS_2.1.5_OTA_2023-02-23T17.19.48.zip
