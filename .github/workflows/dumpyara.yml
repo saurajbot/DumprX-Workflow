@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_032_all_1710240102_5aab6a62151e4407.zip
+  ROM_URL: https://github.com/neilchetty/releases/releases/download/21022023/lineage-20.0-20230220-UNOFFICIAL-RMP6768-fastboot-signed.zip
