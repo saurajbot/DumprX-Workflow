@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/neilchetty/releases/releases/download/21022023/lineage-20.0-20230220-UNOFFICIAL-RMP6768-fastboot-signed.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/bikramjit/btlg/hotfix/vanilla/BootleggersROM-Tirimbino4RM6785.7.0-Stable-Unshishufied-Vanilla-20230223-160918.zip
