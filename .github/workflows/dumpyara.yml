@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://mirrorvortex.vijaymalav6969.workers.dev/0:/Tg/AospExtended-v7.3-oneplus2-20201122-1645-UNOFFICIAL.zip
+  ROM_URL: https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_032_all_1710240102_5aab6a62151e4407.zip
