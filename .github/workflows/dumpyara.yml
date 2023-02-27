@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%20C2/501881RMX1941EX_11_C.57_210531_331d08f0.zip
+  ROM_URL: https://bot1.megamirror69.workers.dev/0:/lineage-20.0-20230225-UNOFFICIAL-RMX1941/recovery.img
