@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bot1.megamirror69.workers.dev/0:/lineage-20.0-20230225-UNOFFICIAL-RMX1941/recovery.img
+  ROM_URL: https://sourceforge.net/projects/rom-builders/files/RMX1941/lineage-20.0-20230225-UNOFFICIAL-RMX1941.zip/download
