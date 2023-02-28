@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://sourceforge.net/project/batuhan-s-builds/Mint2/lineage-17.1-20220830-UNOFFICIAL-j7y17lte.zip/download
+  ROM_URL: https://sourceforge.net/projects/batuhan-s-builds/files/Mint2/lineage-17.1-20220830-UNOFFICIAL-j7y17lte.zip/download
