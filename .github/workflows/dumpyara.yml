@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://sourceforge.net/projects/sushrut1101-roms/files/everpal/PixelExperience/25-02-2023/PixelExperience_Plus_everpal-13.0-20230225-1258-UNOFFICIAL.zip/download
+  ROM_URL: https://downloads.sourceforge.net/project/batuhan-s-builds/Mint2/lineage-17.1-20220830-UNOFFICIAL-j7y17lte.zip/download
