@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://sourceforge.net/projects/batuhan-s-builds/files/Mint2/lineage-17.1-20220830-UNOFFICIAL-j7y17lte.zip/download
+  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.2.0.TKFEUXM_d0e173e130_13.0.zip
