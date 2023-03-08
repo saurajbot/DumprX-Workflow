@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://ota-manual-in.allawnofs.com/ota/22/11/05/f9a7ced7-c0a6-4e1c-b4bd-705f2a029271.zip
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/2f4878cd21c4470fa32ff59e8eb8ac34b04c6479.zip
