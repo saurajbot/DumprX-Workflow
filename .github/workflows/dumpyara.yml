@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/2f4878cd21c4470fa32ff59e8eb8ac34b04c6479.zip
+  ROM_URL: https://dl.google.com/developers/android/udc/images/factory/redfin_beta-upp2.230217.004-factory-dad79c9e.zip
