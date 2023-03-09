@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://oss.ztedevices.com/prod/cn/bigfile/2022/444160B13MR07MyOS13.0.13MR_NX711J(SD%E5%8D%A1%E5%8D%87%E7%BA%A7%E5%8C%85).zip
+  ROM_URL: http://bsdka.com/ozip123.ozip
