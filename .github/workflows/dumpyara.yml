@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: http://bigota.d.miui.com/V10.2.2.0.MBEMIXM/markw_global_images_V10.2.2.0.MBEMIXM_20190422.0000.00_6.0_global_7e9366b564.tgz
+  ROM_URL: https://downloads2.myteracube.com/T2e/2020-zirconia/internal/12.0.0%2B6f5fb8c.zirconia.user/full_zirconia-images-12.0.0%2B6f5fb8c.zirconia.user_signed.zip
