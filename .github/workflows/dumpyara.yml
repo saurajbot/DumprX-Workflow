@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-d081900f366f1484c1b4aa06e9e26c7e/component-ota/23/03/08/e655bd44d78a429d9f865b121ed53e26.zip
+  ROM_URL: https://github.com/Xiaomi-MT6833/releases/releases/download/PixelExperience_Plus_everpal-13.0-20230310-1521-UNOFFICIAL/PixelExperience_Plus_everpal-13.0-20230310-1521-UNOFFICIAL.zip
