@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://downloads2.myteracube.com/T2e/2020-zirconia/internal/12.0.0%2B6f5fb8c.zirconia.user/full_zirconia-images-12.0.0%2B6f5fb8c.zirconia.user_signed.zip
+  ROM_URL: https://download.c.realme.com/flash/Rollbackpack/realme_C25s/UI3.0/oplus_ota_downgrade.zip
