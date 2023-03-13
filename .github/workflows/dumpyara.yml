@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.TKLMIXM/miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.SKGMIXM/miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip
