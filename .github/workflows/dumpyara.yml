@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/43feda0134e00aaa37c8785b0436887548565f81.zip
+  ROM_URL: https://downloads.myteracube.com/Teracube2e/Teracube_2e_06_2020.zip
