@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://fileload.coloros.com/503997RMX2189export_11_C.08_2021102223120000.zip
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/43feda0134e00aaa37c8785b0436887548565f81.zip
