@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/sunfish-tq2a.230305.008.c1-factory-97732c43.zip
+  ROM_URL: https://mirrorbits.lineageos.org/full/G/20230311/lineage-20.0-20230311-nightly-G-signed.zip
