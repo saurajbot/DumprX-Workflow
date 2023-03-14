@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://mirrorbits.lineageos.org/full/G/20230311/lineage-20.0-20230311-nightly-G-signed.zip
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/f96098bb4b5ae7d5765f3b4f7ae27fa1f3b30cf9.zip
