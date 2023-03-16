@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.4.0.SMOINXM/miui_RUBYINGlobal_V13.0.4.0.SMOINXM_ed6785b353_12.0.zip
+  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%20narzo%2020A/20667/RMX2050export_11_C.07_2022012415020180.zip
