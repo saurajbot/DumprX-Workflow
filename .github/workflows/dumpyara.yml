@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%20narzo%2020A/20667/RMX2050export_11_C.07_2022012415020180.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.12.0.RCOEUXM/ginkgo_eea_global_images_V12.5.12.0.RCOEUXM_20221127.0000.00_11.0_eea_fdd5e37d21.tgz
