@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d0/v3/CCQacn0YTBKg-vvKuiC64Q/full/update_full_base.zip
+  ROM_URL: https://mirrors.vijaymalav6969.workers.dev/3:/Tg/test.tar
