@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/b54c4dbe45c736818a4b0791ed07d78e9651a1fd.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.7.0.TMBMIXM/miui_NUWAGlobal_V14.0.7.0.TMBMIXM_875710201a_13.0.zip
