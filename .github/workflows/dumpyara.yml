@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.7.0.TMBMIXM/miui_NUWAGlobal_V14.0.7.0.TMBMIXM_875710201a_13.0.zip
+  ROM_URL: http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d0/v3/CCQacn0YTBKg-vvKuiC64Q/full/update_full_base.zip
