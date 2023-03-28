@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://mirrorbits.lineageos.org/full/cheeseburger/20230327/lineage-20.0-20230327-nightly-cheeseburger-signed.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/motorola/devon/official/RETIN/XT2235-2_DEVON_RETIN_12_S2SN32.34-72-12_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip
