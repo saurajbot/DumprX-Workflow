@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://github.com/LordShenron/ota/releases/download/primebook-4g-2.2.0/PrimeOS_2.2.0_OTA_2023-03-29T14.58.55.zip
+  ROM_URL: https://mirrors.vijaymalav6969.workers.dev/3:/Tg/PixelExperience_cheeseburger-13.0-20230330-1154-UNOFFICIAL.zip
