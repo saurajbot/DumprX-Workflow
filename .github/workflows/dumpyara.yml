@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.pranaya2005.eu.org/SM-M215G_2_20230123205340_o2j0m0q9q4_fac_M215GDDU2CWA3_M215GODM2CWA1_M215GDDU2CWA1_M215GDDU2CWA3_INS.zip
+  ROM_URL: https://download.meizu.com/Firmware/Flyme/m2391/10.0.2.0/demo/20230329190409/969555af/update.zip
