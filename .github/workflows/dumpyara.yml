@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/m2391/10.0.2.0/demo/20230329190409/969555af/update.zip
+  ROM_URL: http://rms01.realme.net/SW/realme%20service/realme%20X/503902RMX1903_11_F.05_2021101311573411.zip
