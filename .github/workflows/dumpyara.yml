@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://sourceforge.net/projects/xenxynon-roms/files/fusion/aospa-topaz-beta-1-phone1-20230223-1313.zip/download
+  ROM_URL: https://bigota.d.miui.com/V12.5.4.0.QFHCNXM/violet_images_V12.5.4.0.QFHCNXM_20211108.0000.00_10.0_cn_b4ece801ad.tgz
