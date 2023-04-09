@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/pascoato/roms/topaz/aospa-topaz-unofficial-ginkgo-20230131.zip?ts=gAAAAABkMlDEMs9IDyQWAIiVvnwH4CFUcfEUs0lhnSXLrhiJ8AAuosWniZCM09A-EcZWB5iN60DggK3XoFSLdWfUouEE4cY3tQ%3D%3D&use_mirror=excellmedia&r=
+  ROM_URL: https://mirror-gan.eu.org/0:/project-404-6.1-20230407-215543-Community-r5x.zip
