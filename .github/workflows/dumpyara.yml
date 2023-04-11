@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://mirrors.vijaymalav6969.workers.dev/3:/Tg/OnePlus5Oxygen_23_OTA_069_all_2010292138_55db5445239246dd.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.TKAMIXM/star_global_images_V14.0.1.0.TKAMIXM_20230210.0000.00_13.0_global_3abbe1c73e.tgz
