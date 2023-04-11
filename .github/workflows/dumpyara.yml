@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://flash.android.com/build/9802792?target=cheetah-user&signed
+  ROM_URL: https://dl.google.com/dl/android/aosp/cheetah-tq2a.230405.003.e1-factory-1f04869e.zip
