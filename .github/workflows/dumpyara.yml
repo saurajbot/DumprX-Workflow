@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/redfin-tq2a.230405.003.b2-factory-f256a9df.zip
+  ROM_URL: https://mirrors.vijaymalav6969.workers.dev/3:/Tg/OnePlus5Oxygen_23_OTA_069_all_2010292138_55db5445239246dd.zip
