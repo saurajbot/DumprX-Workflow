@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2188_A_12.0.11.5.W10.V000L1-update-full_1675311783.zip
+  ROM_URL: https://flash.android.com/build/9802792?target=cheetah-user&signed
