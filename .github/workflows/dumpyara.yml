@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.TKAMIXM/star_global_images_V14.0.1.0.TKAMIXM_20230210.0000.00_13.0_global_3abbe1c73e.tgz
+  ROM_URL: https://dl.google.com/developers/android/udc/images/factory/cheetah_beta-upb1.230309.014-factory-960ebae6.zip
