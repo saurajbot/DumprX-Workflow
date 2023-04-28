@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://asia-sysupwsdl.vivoglobal.com/upgrade/official/officialFiles/PD2140IF_EX_A_6.19.4-update-full_1654828278.zip
+  ROM_URL: https://bigota.d.miui.com/V11.0.9.0.QEJMIXM/miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
