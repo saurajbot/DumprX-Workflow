@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.9.0.QEJMIXM/miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
+  ROM_URL: https://personal.hitesh-920.workers.dev/0:/MT6763_Gigaset_GX290_Android_10_V11_20200813_QP1A.190711.020_%5BHardReset.info%5D.7z
