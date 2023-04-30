@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://personal.hitesh-920.workers.dev/0:/MT6763_Gigaset_GX290_Android_10_V11_20200813_QP1A.190711.020_%5BHardReset.info%5D.7z
+  ROM_URL: https://bigota.d.miui.com/V14.0.10.0.TGOMIXM/water_global_images_V14.0.10.0.TGOMIXM_20230404.0000.00_13.0_90dfffe33c.tgz
