@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://ota-manual-in.allawnofs.com/ota/23/03/03/3948734b-b12c-407f-a625-9ad1cf1659c2.zip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1190_all_O22LRvQdPEDL.ozip
