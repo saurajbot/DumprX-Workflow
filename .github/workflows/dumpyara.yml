@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-compotacostauto-cn.allawnfs.com/remove-3ec228b8311523f296732e809ade7eb2/component-ota/23/04/27/2cda8bf911dd49c7bdd293a9fa55b4c8.zip
+  ROM_URL: https://get.pixelexperience.org/changelog/violet/PixelExperience_Plus_violet-13.0-20230503-1713-OFFICIAL.zip?error=expired
