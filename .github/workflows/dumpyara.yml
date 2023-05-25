@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-componentotacostmanual-eu.allawnofs.com/remove-3a577d8288932059edbd093fef074714/component-ota/23/03/15/8996d40fdd054968b0ba36b048ecfc3f.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.SJDINXM/miui_APOLLOINGlobal_V14.0.1.0.SJDINXM_0831ed3cd1_12.0.zip
