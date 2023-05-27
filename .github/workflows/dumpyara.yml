@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-componentotacostmanual-eu.allawnofs.com/remove-03e80e0b05abd72f276c7201e8eba554/component-ota/23/05/19/38f250dc73cc4d7d850376e11372407e.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.TKCCNXM/miui_VEUX_V14.0.1.0.TKCCNXM_0ebe59b3b1_13.0.zip
