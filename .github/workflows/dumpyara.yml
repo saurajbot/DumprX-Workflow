@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1823/CPH1823EX_11_OTA_2180_all_BlNfaypzortM.ozip
+  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.THZMIXM/sea_global_images_V14.0.2.0.THZMIXM_20230407.0000.00_13.0_global_51f0273126.tgz
