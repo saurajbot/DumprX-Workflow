@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.THZMIXM/sea_global_images_V14.0.2.0.THZMIXM_20230407.0000.00_13.0_global_51f0273126.tgz
+  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.TKXINXM/miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
