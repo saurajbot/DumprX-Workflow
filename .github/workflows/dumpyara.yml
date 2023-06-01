@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://rms01.realme.net/sw/RMX2156export_11_F.13_2023030817030149.zip
+  ROM_URL: https://downloads2.myteracube.com/T2e/2020-zirconia/A11/11.0.4/full_zirconia-ota-11.0.4-75a3294.user_signed.zip
