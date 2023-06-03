@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.TJUMIXM/vayu_global_images_V14.0.1.0.TJUMIXM_20230110.0000.00_13.0_global_42fe73e53c.tgz
+  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.TGBCNXM/evergo_images_V14.0.2.0.TGBCNXM_20230516.0000.00_13.0_cn_8fdf024ced.tgz
