@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://firmwarefile-my.sharepoint.com/personal/172_firmwarefile_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F172%5Ffirmwarefile%5Fcom%2FDocuments%2F%40firmwarefile%2Ecom%2FiPhone%20Clone%2FiPhone%5F13%5FPro%5FMax%5FClone%5FMT6580%5F190722%5F6%2E0%2Ezip&parent=%2Fpersonal%2F172%5Ffirmwarefile%5Fcom%2FDocuments%2F%40firmwarefile%2Ecom%2FiPhone%20Clone&ga=1
+  ROM_URL: https://dl.google.com/developers/android/udc/images/ota/cheetah_beta-ota-upb3.230519.008-dbe6649f.zip
