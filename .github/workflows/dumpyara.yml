@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.google.com/developers/android/udc/images/ota/cheetah_beta-ota-upb3.230519.008-dbe6649f.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.3.0.TJUMIXM/miui_VAYUGlobal_V14.0.3.0.TJUMIXM_6be397120d_13.0.zip
