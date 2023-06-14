@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/sunfish-tq3a.230605.011-factory-e7734214.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.23.6.5.DEV/miui_NABU_V14.0.23.6.5.DEV_abdea16a23_13.0.zip
