@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-componentotacostmanual-eu.allawnofs.com/remove-11831ecf905e116325f705f2add456da/component-ota/22/05/17/fd5dedd4ea1c49bd918520cd5372e69b.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/PixelOS_blossom-13.0-20230616-0406.zip
