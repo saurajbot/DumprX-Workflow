@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/PixelOS_blossom-13.0-20230616-0406.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/blsssom-test/lineage-20.0-20230617-UNOFFICIAL-blossom.zip
