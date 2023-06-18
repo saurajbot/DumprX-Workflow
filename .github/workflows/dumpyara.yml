@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/blsssom-test/lineage-20.0-20230617-UNOFFICIAL-blossom.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.7.0.TKHMIXM/miui_ALIOTHGlobal_V14.0.7.0.TKHMIXM_30afed978c_13.0.zip
