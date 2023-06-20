@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.7.0.TKHMIXM/miui_ALIOTHGlobal_V14.0.7.0.TKHMIXM_30afed978c_13.0.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/tangorpro-ota-tq3a.230605.009.a1-19ab82f9.zip
