@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.ayokaacr.net/4:/rosemary/
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/imranpopz/aospa-topaz-unofficial-sweet-20230702.zip
