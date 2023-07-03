@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/imranpopz/aospa-topaz-unofficial-sweet-20230702.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.7.0.TLUMIXM/rock_global_images_V14.0.7.0.TLUMIXM_20230508.0000.00_13.0_global_a508bc807e.tgz
