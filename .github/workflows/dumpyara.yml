@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://rms01.realme.net/sw/RMX3085export_11_C.14_2022112522590000.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/Decrypted_ofp/RMX2156_12_F.13_BY_PRATHAM_decrypt/Decrypted_RMX2156_12_F.13_BY_PRATHAM.zip
