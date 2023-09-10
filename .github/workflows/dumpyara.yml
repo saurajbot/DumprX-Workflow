@@ -4,7 +4,7 @@ on:
   push:
     paths-ignore:
       - '*.md'
-    branches: [ main ]
+    branches: [ staging ]
 
 defaults:
   run:
@@ -12,7 +12,7 @@ defaults:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: buildjet-4vcpu-ubuntu-2204
 
     steps:
        - name: Checkouts
