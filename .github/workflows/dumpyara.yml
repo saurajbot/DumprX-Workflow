@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://pixeldrain.com/api/file/3MNo62TY?download
+  ROM_URL: https://fileload.minati.workers.dev/builds/GX4PRO.HB.FHD.LAPGSMLJ.20230920.V3.01.zip
