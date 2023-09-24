@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://pixeldrain.com/u/3MNo62TY
+  ROM_URL: https://pixeldrain.com/api/file/3MNo62TY?download
