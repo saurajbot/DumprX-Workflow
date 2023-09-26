@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://fileload.minati.workers.dev/builds/GX4PRO.HB.FHD.LAPGSMLJ.20230920.V3.01.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.3.0.TKSEUXM/miui_CAMELLIANEEAGlobal_V14.0.3.0.TKSEUXM_3029e0954c_13.0.zip
