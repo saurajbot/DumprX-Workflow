@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://drive.google.com/file/d/12EIxRfkl6Nt1D-XAQCqHlDWlKsD2zPjc/view?usp=drivesdk
+  ROM_URL: https://drive.google.com/uc?id=12EIxRfkl6Nt1D-XAQCqHlDWlKsD2zPjc&export=download
