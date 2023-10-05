@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/7b99dd1f0eb2b32c0208ccc90f7a8fcbe6609a14.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/everpal-test/everpal-ota-eng.Everpal.zip
