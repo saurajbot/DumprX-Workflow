@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/everpal-test/everpal-ota-eng.Everpal.zip
+  ROM_URL: https://mirrorbits.lineageos.org/full/violet/20231008/lineage-20.0-20231008-nightly-violet-signed.zip
