@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://rms01.realme.net/sw/RMX2117export_11_F.10_2023063018560116.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/everpal-test/everpal-ota-eng.runner.zip
