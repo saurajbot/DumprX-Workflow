@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.TGBMIXM/miui_EVERGREENGlobal_V14.0.2.0.TGBMIXM_3eba7bc99e_13.0.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/everpal-test/lineage-20.0-20231023-UNOFFICIAL-everpal.zip
