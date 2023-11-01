@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://index.sauraj.eu.org/Public/PixelExperience%5fselene%2d13%2e0%2d20231101%2d1307%2dUNOFFICIAL%2ezip
+  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.THGRUXM/miui_SWEETK6ARUGlobal_V14.0.2.0.THGRUXM_b1d70e11a2_13.0.zip
