@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.2.0.THGRUXM/miui_SWEETK6ARUGlobal_V14.0.2.0.THGRUXM_b1d70e11a2_13.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.20.0.RKUMIXM/selene_global_images_V12.5.20.0.RKUMIXM_20220815.0000.00_11.0_global_2f21ae9aca.tgz
