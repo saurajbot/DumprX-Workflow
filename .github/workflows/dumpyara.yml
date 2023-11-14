@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/husky-ud1a.231105.004-factory-38d2e6cf.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/barbet-up1a.231105.001-factory-e3a984c3.zip
