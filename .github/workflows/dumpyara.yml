@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/barbet-up1a.231105.001-factory-e3a984c3.zip
+  ROM_URL: https://dl.google.com/developers/android/udc/images/factory/cheetah_beta-ap11.231020.013.a1-factory-775bdc43.zip
