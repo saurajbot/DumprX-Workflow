@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.tgxlink.eu.org/dl/6558bc1b50f7507d41860b85
+  ROM_URL: https://images.ecloud.global/stable/emerald/IMG-e-1.17-s-20231109350748-stable-emerald.zip
