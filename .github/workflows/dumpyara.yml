@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://rms01.realme.net/SW/realme%20service/realme%20narzo%2020%20pro/20684/RMX2161export_11_C.17_2022041418240000.zip
+  ROM_URL: https://bigota.d.miui.com/OS1.0.23.11.19.DEV/miui_BABYLON_OS1.0.23.11.19.DEV_ae432b65d8_14.0.zip
