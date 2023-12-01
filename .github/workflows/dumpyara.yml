@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/OS1.0.23.11.19.DEV/miui_BABYLON_OS1.0.23.11.19.DEV_ae432b65d8_14.0.zip
+  ROM_URL: https://bigota.d.miui.com/OS1.0.5.0.UNLCNXM/duchamp_images_OS1.0.5.0.UNLCNXM_20231123.0000.00_14.0_cn_8525102b04.tgz
