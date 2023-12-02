@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.1.0.TGPTWXM/miui_GALETWGlobal_V14.0.1.0.TGPTWXM_9cc14cfd6b_13.0.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/motorola/cancunf/official/RETIN/XT2243-5_CANCUNF_RETIN_13_T3TD33.16-66-3_subsidy-DEFAULT_regulatory-DEFAULT_cid50_GPD_CFC.xml.zip
