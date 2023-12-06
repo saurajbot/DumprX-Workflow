@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.6.0.SFFEUXM/miui_ROSEMARYPEEAGlobal_V13.0.6.0.SFFEUXM_94330b433a_12.0.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.3.0.THZEUXM/sea_eea_global_images_V14.0.3.0.THZEUXM_20230711.0000.00_13.0_eea_609116753b.tgz
