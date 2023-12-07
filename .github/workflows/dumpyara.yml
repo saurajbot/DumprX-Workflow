@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/cheetah-uq1a.231205.015-factory-99c57348.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/everpal-test/PixelOS%5feverpal%2d14.0%2d20231207%2d1007.zip
