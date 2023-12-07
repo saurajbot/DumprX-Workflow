@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://mega-drive.rehan1rr22.workers.dev/2:/SAMFW.COM_SM-A3460_BRI_A3460ZHU4BWK3_fac.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/cheetah-uq1a.231205.015-factory-99c57348.zip
