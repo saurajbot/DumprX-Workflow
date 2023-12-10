@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.4.0.RJOMIXM/miui_MERLINGlobal_V12.5.4.0.RJOMIXM_a4d0f9b695_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.4.0.TMXINXM/fire_in_global_images_V14.0.4.0.TMXINXM_20230830.0000.00_13.0_in_312043c78e.tgz
