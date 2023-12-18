@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.6.0.TCVMIXM/earth_global_images_V14.0.6.0.TCVMIXM_20230921.0000.00_13.0_global_6393b4426f.tgz
+  ROM_URL: https://airtel.bigota.d.miui.com/OS1.0.5.0.ULQEUXM/miui_PLATOEEAGlobal_OS1.0.5.0.ULQEUXM_6be50f4ae0_14.0.zip
