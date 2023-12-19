@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://ks3orig.bigota.d.miui.com/OS1.0.3.0.UHZMIXM/miui_SEAGlobal_OS1.0.3.0.UHZMIXM_d4c318c44e_14.0.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.4.0.TMOINXM/miui_RUBYINGlobal_V14.0.4.0.TMOINXM_fc2af2b961_13.0.zip
