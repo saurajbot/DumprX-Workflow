@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/motorola/cancunf/official/RETIN/XT2243-5_CANCUNF_RETIN_13_T3TD33.16-78-3_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip
+  ROM_URL: https://bigota.d.miui.com/V14.0.8.0.TKLMIXM/miui_ROSEMARYGlobal_V14.0.8.0.TKLMIXM_374ebc3983_13.0.zip
