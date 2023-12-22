@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6af354b582d6ea23ed467c1ce0ddeb3a/component-ota/23/09/18/63f4b3ba28de4daaab7183480f699b8f.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/motorola/cancunf/official/RETIN/XT2243-5_CANCUNF_RETIN_13_T3TD33.16-78-3_subsidy-DEFAULT_regulatory-DEFAULT_cid50_CFC.xml.zip
