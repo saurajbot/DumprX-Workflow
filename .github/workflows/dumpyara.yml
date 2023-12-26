@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?id=1obd9CZYSDlKUjTr60mp78MIc2gf89r5B&export=download
+  ROM_URL: https://fileload.minati.workers.dev/builds/readback.zip
