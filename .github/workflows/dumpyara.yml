@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://gauss-componentotacostmanual-in.allawnofs.com/remove-c9d61d5ce52972bfc08865777876bc9e/component-ota/23/12/05/84ff9e61535740839c7d3976895e45e3.zip
+  ROM_URL: https://cdn-ota.azureedge.net/OS1.0.1.0.UMLMIXM/corot_global_images_OS1.0.1.0.UMLMIXM_20231227.0000.00_14.0_global_ab6fd19f34.tgz
