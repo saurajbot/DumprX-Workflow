@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://cdn-ota.azureedge.net/V14.0.6.0.TKUMIXM/selene_global_images_V14.0.6.0.TKUMIXM_20231202.0000.00_13.0_global_ec3368e993.tgz
+  ROM_URL: https://rms01.realme.net/sw/RMX3782export_11_A.39_2023100920080103.zip
