@@ -78,4 +78,4 @@ jobs:
 
 #######
 env:
-  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/everpal-test/lineage%5feverpal%2dota%2deng.admin.zip
+  ROM_URL: https://rms01.realme.net/sw/RMX3191export_11_F.14_2023061410300000.zip
