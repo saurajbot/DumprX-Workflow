@@ -20,7 +20,8 @@ jobs:
 
        - name: Clone Dumpyara
          run: |
-              git clone --depth=1 --single-branch https://github.com/saurajbot/DumprX.git phoenix_firmware_dumper
+              git clone --depth=1 --single-branch https://github.com/saurajbot/phoenix_firmware_dumper.git
+              git clone --depth=1 --single-branch https://github.com/noobyysauraj/android_tools
               T_CID=$(cat temp/ch_id.txt)
               T_MID=$(cat temp/msg_id.txt)
               echo "$T_CID" > phoenix_firmware_dumper/.tg_cid 
@@ -41,7 +42,7 @@ jobs:
               GITLAB_ORG_NAME="sauraj-dumps"
               GITLAB_USERNAME="ksauraj"
               GITHUB_USERNAME="saurajbot"
-              GIT_CONFIG_USERNAME="ksauraj"
+              GIT_CONFIG_USERNAME="saurajbot"
               GIT_CONFIG_EMAIL="rommirrorer@gmail.com"
               GIT_GITHUB_TOKEN="${{ secrets.GIT_GITHUB_TOKEN }}"
               GITLAB_TOKEN="${{ secrets.GITLAB_TOKEN }}"
@@ -60,12 +61,6 @@ jobs:
               echo "1297553238" > .tg_chat_id
               export GIT_TOKEN=${{ secrets.GIT_GITHUB_TOKEN }}
               export TG_API=${{ secrets.TG_BOT_TOKEN }}
-              export PUSH_TO_GITLAB=true
-              export TG_TOKEN="$TG_API"
-              export GIT_TKN=${{ secrets.GIT_GITHUB_TOKEN }}
-              export CHAT_ID="$TG_CHAT_ID"
-              export C_ID="$T_CID"
-              export M_ID="$T_MID"
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
@@ -74,8 +69,14 @@ jobs:
               mkdir -p "$HOME"/dump
               mkdir -p "$HOME"/telegram
               sudo bash dumper.sh "$ROM_URL"
+              cd ../android_tools
+              chmod +x setup.sh
+              sudo bash setup.sh
+              export GIT_TKN=${{ secrets.GIT_GITHUB_TKN }}
+              export TG_API=${{ secrets.TG_BOT_TOKEN }}
+              sudo ./tools/dummy_dt.sh /home/runner/work/dumper/dumper/dumped
 
 
-#######
+##########
 env:
-  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-27a070b72217cc1ad28c41e1484a736c/component-ota/22/06/24/20050e47af3e4cf7bd267d302be5cee1.zip
+  ROM_URL: https://fairphone-android-builds.ams3.digitaloceanspaces.com/FP3/FP3-8901.4.A.0019.2-gms-53c17a08-user-fastbootimage.zip
