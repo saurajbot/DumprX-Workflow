@@ -79,4 +79,4 @@ jobs:
 
 ##########
 env:
-  ROM_URL: https://fairphone-android-builds.ams3.digitaloceanspaces.com/FP3/FP3-8901.4.A.0019.2-gms-53c17a08-user-fastbootimage.zip
+  ROM_URL: https://index.sauraj.eu.org/api/raw/?path=/everpal-test/lineage%5feverpal%2dota%2deng.admin.zip
