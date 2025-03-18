@@ -20,8 +20,8 @@ jobs:
 
        - name: Clone Dumpyara
          run: |
-              git clone --depth=1 --single-branch https://github.com/saurajbot/phoenix_firmware_dumper.git
-              git clone --depth=1 --single-branch https://github.com/noobyysauraj/android_tools
+              git clone --depth=1 --single-branch https://github.com/saurajbot/DumprX.git phoenix_firmware_dumper
+              git clone --depth=1 --single-branch https://github.com/ksauraj/android_tools
               T_CID=$(cat temp/ch_id.txt)
               T_MID=$(cat temp/msg_id.txt)
               echo "$T_CID" > phoenix_firmware_dumper/.tg_cid 
@@ -42,7 +42,7 @@ jobs:
               GITLAB_ORG_NAME="sauraj-dumps"
               GITLAB_USERNAME="ksauraj"
               GITHUB_USERNAME="saurajbot"
-              GIT_CONFIG_USERNAME="saurajbot"
+              GIT_CONFIG_USERNAME="ksauraj"
               GIT_CONFIG_EMAIL="rommirrorer@gmail.com"
               GIT_GITHUB_TOKEN="${{ secrets.GIT_GITHUB_TOKEN }}"
               GITLAB_TOKEN="${{ secrets.GITLAB_TOKEN }}"
@@ -61,6 +61,12 @@ jobs:
               echo "1297553238" > .tg_chat_id
               export GIT_TOKEN=${{ secrets.GIT_GITHUB_TOKEN }}
               export TG_API=${{ secrets.TG_BOT_TOKEN }}
+              export PUSH_TO_GITLAB=true
+              export TG_TOKEN="$TG_API"
+              export GIT_TKN=${{ secrets.GIT_GITHUB_TOKEN }}
+              export CHAT_ID="$TG_CHAT_ID"
+              export C_ID="$T_CID"
+              export M_ID="$T_MID"
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
